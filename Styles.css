@@ -1,0 +1,77 @@
+body {
+	background-color: #262626;
+}
+header {
+	margin: auto;
+	width: 50%;
+	height: 150px;
+	background-color: black;
+	color: white;
+	font-family: cambria;
+	text-align: center;
+	border: 2px solid black;
+	outline-style: solid;
+	outline-color: white;
+}
+h2 {
+	background-color: black;
+	color: white;
+	font-family: cambria;
+	text-align: left;
+	padding: 5px;
+	border: 2px solid black;
+	outline-style: solid;
+	outline-color: white;
+}
+.bio {
+	margin: auto;
+	width: 50%;
+	background-color: #3e80c1;
+	font-family: cambria;
+	color: white;	
+}
+.edu {
+	margin: auto;
+	width: 50%;
+	background-color: #3e80c1;
+	font-family: cambria;
+	color: white;
+}
+.project {
+	margin: auto;
+	width: 50%;
+	background-color: #3e80c1;
+	font-family: cambria;
+	color: white;
+}
+.resume {
+	margin: auto;
+	width: 50%;
+	background-color: #3e80c1;
+	font-family: cambria;
+	color: white;
+}
+.photos {
+	margin: auto;
+	width: 50%;
+	height: auto;
+	background-color: #262626;
+}
+.photos img {
+	position: relative;
+	width: 100%;
+	height: autpo;
+}
+.extra {
+	margin: auto;
+	width: 50%;
+	background-color: #3e80c1;
+	font-family: cambria;
+	color: white;
+}
+p {
+	padding: 3px;
+	font-size: 18px;
+	font-family: Garamond, serif;
+	color: white;
+}
